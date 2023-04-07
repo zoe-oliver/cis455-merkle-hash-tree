@@ -3,6 +3,7 @@
 Merkle Hash Tree for Integrity Check of Files
 
 Input: dirctory containing files to compute top hash from
+
 Output: Top hash and new top hash with modified file
 
 Example output:
